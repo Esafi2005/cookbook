@@ -7,6 +7,14 @@
 /************************** Arian CSS *************************/
 /* section-footer */
 
+.section-footer {
+    background-color: #feffde;
+}
+
+.main-card {
+    border: 0;
+}
+
 .footer-cards a {
     padding-left: 0;
 }
